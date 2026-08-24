@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/dheiraaindustreispvtltd-dipl/WPulse">
-		<img src=".github/frappe-hr-logo.png" height="80px" width="80px" alt="Frappe HR Logo">
+		<img src="https://raw.githubusercontent.com/dheiraaindustreispvtltd-dipl/WPulse/main/LO03.png" height="80" width="80" alt="WorkPulse Logo">
 	</a>
 	<h2>WorkPulse</h2>
 	<p align="center">
