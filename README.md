@@ -6,7 +6,6 @@
 	<p align="center">
 		<p>Modern Workforce Management Platform by A Unit of SREXHA PVT LTD</p>
 	</p>
-[![GitHub](https://img.shields.io/badge/GitHub-WPulse-blue)](https://github.com/dheiraaindustreispvtltd-dipl/WPulse)
 </div>
 
 <div align="center">
