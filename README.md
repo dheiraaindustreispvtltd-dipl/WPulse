@@ -37,7 +37,7 @@ WorkPulse has everything you need to drive excellence within the company. It's a
 
 ## Our Vision
 
-WorkPulse is being developed by Dheiraa Industries Pvt Ltd to deliver a modern, scalable, and easy-to-use workforce management platform built on the Frappe Framework.
+WorkPulse is being developed by SREXHA Pvt Ltd to deliver a modern, scalable, and easy-to-use workforce management platform built on the Frappe Framework.
 
 Our goal is to provide organizations with an integrated solution for employee management, attendance, payroll, recruitment, performance management, and workforce analytics while preserving the flexibility of open-source software.
 
