@@ -1,14 +1,23 @@
 <div align="center">
-	<a href="https://frappe.io/hr">
+	<a href="https://github.com/dheiraaindustreispvtltd-dipl/WPulse">
 		<img src=".github/frappe-hr-logo.png" height="80px" width="80px" alt="Frappe HR Logo">
 	</a>
-	<h2>Frappe HR</h2>
+	<h2>WorkPulse</h2>
 	<p align="center">
-		<p>Open Source, modern, and easy-to-use HR and Payroll Software</p>
+		<p>Modern Workforce Management Platform by A Unit of SREXHA PVT LTD</p>
 	</p>
+[![GitHub](https://img.shields.io/badge/GitHub-WPulse-blue)](https://github.com/dheiraaindustreispvtltd-dipl/WPulse)
+</div>
 
-[![CI](https://github.com/frappe/hrms/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/frappe/hrms/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/frappe/hrms/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/hrms)
+<div align="center">
+	<img src=".github/hrms-hero.png"/>
+</div>
+
+<div align="center">
+	<a href="https://github.com/dheiraaindustreispvtltd-dipl/WPulse">Repository</a>
+	-
+	<a href="https://docs.frappe.io/hr/introduction">Framework Documentation</a>
+</div>
 
 <a href="https://trendshift.io/repositories/10972" target="_blank"><img src="https://trendshift.io/api/badge/repositories/10972" alt="frappe%2Fhrms | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
@@ -23,13 +32,19 @@
 	<a href="https://docs.frappe.io/hr/introduction">Documentation</a>
 </div>
 
-## Frappe HR
+## WorkPulse
 
-Frappe HR has everything you need to drive excellence within the company. It's a complete HRMS solution with over 13 different modules right from Employee Management, Onboarding, Leaves, to Payroll, Taxation, and more!
+WorkPulse has everything you need to drive excellence within the company. It's a complete HRMS solution with over 13 different modules right from Employee Management, Onboarding, Leaves, to Payroll, Taxation, and more!
+
+## Our Vision
+
+WorkPulse is being developed by Dheiraa Industries Pvt Ltd to deliver a modern, scalable, and easy-to-use workforce management platform built on the Frappe Framework.
+
+Our goal is to provide organizations with an integrated solution for employee management, attendance, payroll, recruitment, performance management, and workforce analytics while preserving the flexibility of open-source software.
 
 ## Motivation
-When Frappe team started growing in terms of size, we needed an open-source HR and Payroll software. We didn't find any "true" open-source HR software out there and so decided to build one ourselves.
-Initially, it was a set of modules within ERPNext but version 14 onwards, as the modules became more mature, Frappe HR was created as a separate product.
+When Workpulse team started growing in terms of size, we needed an open-source HR and Payroll software. We didn't find any "true" open-source HR software out there and so decided to build one ourselves.
+Initially, it was a set of modules within ERPNext but version 14 onwards, as the modules became more mature, WorkPulse was created as a separate product.
 
 ## Key Features
 
@@ -38,7 +53,7 @@ Initially, it was a set of modules within ERPNext but version 14 onwards, as the
 - **Expense Claims and Advances**: Manage employee advances, claim expenses, configure multi-level approval workflows, all this with seamless integration with ERPNext accounting.
 - **Performance Management**: Track goals, align goals with key result areas (KRAs), enable employees to evaluate themselves, make managing appraisal cycles easy.
 - **Payroll & Taxation**: Create salary structures, configure income tax slabs, run standard payroll, accommodate additional salaries and off cycle payments, view income breakup on salary slips and so much more.
-- **Frappe HR Mobile App**: Apply for and approve leaves on the go, check-in and check-out, access employee profile right from the mobile app.
+- **WorkPulse Mobile App**: Apply for and approve leaves on the go, check-in and check-out, access employee profile right from the mobile app.
 
 <details open>
 
@@ -106,12 +121,10 @@ Use the following credentials to log in:
 	```
 3. You can access the site at `http://hrms.localhost:8080`
 
-## Learning and Community
+## Support
 
-1. [Frappe School](https://frappe.school) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-2. [Documentation](https://docs.frappe.io/hr) - Extensive documentation for Frappe HR.
-3. [User Forum](https://discuss.erpnext.com/) - Engage with the community of ERPNext users and service providers.
-4. [Telegram Group](https://t.me/frappehr) - Get instant help from the community of users.
+- GitHub Repository: https://github.com/dheiraaindustreispvtltd-dipl/WPulse
+- Built on the Frappe Framework
 
 
 ## Contributing
@@ -127,12 +140,13 @@ Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md).
 
 <br />
 <br />
-<div align="center" style="padding-top: 0.75rem;">
-	<a href="https://frappe.io" target="_blank">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://frappe.io/files/Frappe-white.png">
-			<img src="https://frappe.io/files/Frappe-black.png" alt="Frappe Technologies" height="28"/>
-		</picture>
-	</a>
+---
+
+<div align="center">
+
+**WorkPulse**
+Built with ❤️ by **(A Unit of SREXHA Pvt Ltd)**
+Powered by the Frappe Framework.
+
 </div>
 
