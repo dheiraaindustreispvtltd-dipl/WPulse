@@ -32,7 +32,7 @@ app_include_js = [
 
 app_include_css = [
     "hrms.bundle.css",
-    "/assets/hrms/css/workpulse_login.css",
+    "/assets/hrms/css/workpulse_login.scss",
 ]
 
 # website
