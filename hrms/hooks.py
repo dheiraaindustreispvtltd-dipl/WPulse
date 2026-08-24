@@ -2,17 +2,17 @@ app_name = "hrms"
 app_title = "WorkPulse"
 app_publisher = "WorkPulse (A Unit of SREXHA P Ltd)"
 app_description = "Connect. Manage. Grow."
-app_email = "contact@frappe.io"
+app_email = "dheiraaindustriespvtltd@gmail.com"
 app_license = "GNU General Public License (v3)"
 required_apps = ["frappe/erpnext"]
-source_link = "http://github.com/frappe/hrms"
-app_logo_url = "/assets/hrms/images/frappe-hr-logo.svg"
+source_link = "https://github.com/dheiraaindustreispvtltd-dipl/WPulse"
+app_logo_url = "/assets/hrms/images/workpulse-logo.svg"
 app_home = "/desk/hr-setup"
 
 add_to_apps_screen = [
 	{
 		"name": "hrms",
-		"logo": "/assets/hrms/images/frappe-hr-logo.svg",
+		"logo": "/assets/hrms/images/workpulse-logo.svg",
 		"title": "WorkPulse",
 		"route": app_home,
 		"has_permission": "hrms.hr.utils.check_app_permission",
@@ -26,9 +26,14 @@ add_to_apps_screen = [
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hrms/css/hrms.css"
 app_include_js = [
-	"hrms.bundle.js",
+    "hrms.bundle.js",
+    "/assets/hrms/js/workpulse_login.js",
 ]
-app_include_css = "hrms.bundle.css"
+
+app_include_css = [
+    "hrms.bundle.css",
+    "/assets/hrms/css/workpulse_login.css",
+]
 
 # website
 
