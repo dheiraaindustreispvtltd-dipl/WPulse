@@ -1,0 +1,23 @@
+{% extends "templates/web.html" %}
+
+{% block page_content %}
+<div class="workpulse-login">
+    <div class="workpulse-left">
+        <div class="brand">
+            <h1>WORKPULSE</h1>
+            <p>Connect. Manage. Grow.</p>
+
+            <div class="features">
+                <div>✓ Employee Management</div>
+                <div>✓ Attendance & Payroll</div>
+                <div>✓ Recruitment</div>
+                <div>✓ Workforce Analytics</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="workpulse-right">
+        {{ login_form }}
+    </div>
+</div>
+{% endblock %}
