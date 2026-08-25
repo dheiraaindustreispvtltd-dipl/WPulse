@@ -92,7 +92,7 @@ It takes care of installation, setup, upgrades, monitoring, maintenance and supp
 ### Docker
 You need Docker, docker-compose and git setup on your machine. Refer [Docker documentation](https://docs.docker.com/). After that, run the following commands:
 ```
-git clone https://github.com/frappe/hrms
+git clone https://github.com/dheiraaindustreispvtltd-dipl/WPulse
 cd hrms/docker
 docker-compose up
 ```
