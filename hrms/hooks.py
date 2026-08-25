@@ -5,7 +5,7 @@ app_description = "Connect. Manage. Grow."
 app_email = "dheiraaindustriespvtltd@gmail.com"
 app_license = "GNU General Public License (v3)"
 required_apps = ["frappe/erpnext"]
-source_link = "https://github.com/dheiraaindustreispvtltd-dipl/WPulse"
+source_link = "https://github.com/dheiraaaindustreispvtltd-dipl/WPulse"
 app_logo_url = "/assets/hrms/images/workpulse-logo.svg"
 app_home = "/desk/hr-setup"
 
@@ -26,15 +26,12 @@ add_to_apps_screen = [
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hrms/css/hrms.css"
 app_include_js = [
-    "hrms.bundle.js",
-    "/assets/hrms/js/workpulse_login.js",
+	"hrms.bundle.js",
 ]
-
 app_include_css = [
     "hrms.bundle.css",
-    "/assets/hrms/css/workpulse_login.scss",
+    "/assets/hrms/css/workpulse_login.css",
 ]
-
 # website
 
 # include js, css files in header of web template
