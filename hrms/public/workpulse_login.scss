@@ -1,19 +1,59 @@
-body[data-route="login"] {
-  background:
-    radial-gradient(circle at top, #111827 0%, #0D1117 70%),
-    linear-gradient(135deg, #0D1117, #020617);
+.workpulse-login {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    min-height: 100vh;
+    background: #0D1117;
+}
+
+.workpulse-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 80px;
+    color: white;
+    background:
+        radial-gradient(circle at top left, rgba(79, 70, 229, .25), transparent 35%),
+        radial-gradient(circle at bottom right, rgba(37, 99, 235, .20), transparent 40%);
+}
+
+.brand h1 {
+    font-size: 58px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+}
+
+.brand p {
+    font-size: 20px;
+    color: #CBD5E1;
+}
+
+.features {
+    margin-top: 40px;
+    display: grid;
+    gap: 16px;
+    color: #E5E7EB;
+}
+
+.workpulse-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #111827;
 }
 
 .page-card {
-  background: rgba(15, 23, 42, 0.82) !important;
-  backdrop-filter: blur(20px);
-  border: 1px solid rgba(255,255,255,.08);
-  border-radius: 24px;
-  box-shadow: 0 20px 60px rgba(0,0,0,.45);
+    width: 420px;
+    background: rgba(15, 23, 42, .82) !important;
+    backdrop-filter: blur(24px);
+    border-radius: 24px;
+    padding: 40px;
+    border: 1px solid rgba(255, 255, 255, .08);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, .45);
 }
 
 .btn-login {
-  background: linear-gradient(90deg, #2563EB, #6C5DD3) !important;
-  border: none !important;
-  border-radius: 12px !important;
+    background: linear-gradient(90deg, #2563EB, #6C5DD3) !important;
+    border: none !important;
+    border-radius: 12px !important;
 }
